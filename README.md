@@ -1,5 +1,9 @@
 # 💫 Hi 👋, I'm Shweta Singh
 
+🎓 I'm a final-year Computer Science undergraduate with a passion for building impactful tech solutions. I love exploring full-stack development and machine learning. From creating smart AI-powered chatbots to developing real-time web apps, I enjoy turning ideas into reality through code.
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shwetasingh2k26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shwetasingh4912@gmail.com) 
 
